@@ -18,7 +18,6 @@ April 2026
 - CI/CD (GitHub Actions)
 
 ## Certifications
-- AZ-900 (Azure Fundamentals)
 - AWS Cloud Practitioner
 - Terraform Associate
 
