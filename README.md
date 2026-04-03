@@ -11,7 +11,6 @@ April 2026
 ## Learning Plan
 - Python
 - AWS
-- Azure
 - Docker
 - Terraform
 - Kubernetes
@@ -19,6 +18,7 @@ April 2026
 
 ## Certifications
 - AWS Cloud Practitioner
+- AWS Solutions Architect Associate
 - Terraform Associate
 
 ## Projects
